@@ -29,7 +29,7 @@ $(function () {
     var categoriesTitleHtml = "snippets/categories-title-snippet.html";
     var categoryHtml = "snippets/category-snippet.html";
     var menuItemsUrl =
-      "https://coursera-jhu-default-rtdb.firebaseio.com/menu_items/SP.json";
+      "https://coursera-jhu-default-rtdb.firebaseio.com/menu_items/";
     var menuItemsTitleHtml = "snippets/menu-items-title.html";
     var menuItemHtml = "snippets/menu-item.html";
   
